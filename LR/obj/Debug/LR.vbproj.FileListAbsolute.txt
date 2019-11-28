@@ -1,0 +1,46 @@
+D:\Fuentes Desarrollo\SistemaGestion12\LR\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\SistemaGestion12\LR\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\LR\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\SistemaGestion12\LR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Fuentes Desarrollo\SistemaGestion12\LR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\LR.CO_RE_Reporte.resources
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\LR.Resources.resources
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\LR.dll
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\LR.xml
+D:\Fuentes Desarrollo\SistemaGestion12\LR\obj\Debug\LR.pdb
+D:\Fuentes Desarrollo\SisHelios\LR\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\SisHelios\LR\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\SisHelios\LR\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\SisHelios\LR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Fuentes Desarrollo\SisHelios\LR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\LR.CO_RE_Reporte.resources
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\LR.Resources.resources
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\LR.dll
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\LR.xml
+D:\Fuentes Desarrollo\SisHelios\LR\obj\Debug\LR.pdb
+D:\Fuentes Desarrollo\Contabilidad12\LR\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\Contabilidad12\LR\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\Contabilidad12\LR\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.CO_RE_Reporte.resources
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.Resources.resources
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.vbproj.GenerateResource.Cache
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.dll
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.xml
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.pdb
+D:\Fuentes Desarrollo\Contabilidad12\LR\obj\Debug\LR.vbprojResolveAssemblyReference.cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\bin\Debug\LR.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\bin\Debug\LR.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\bin\Debug\LR.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.vbprojResolveAssemblyReference.cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.CO_RE_Reporte.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.Resources.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.vbproj.GenerateResource.Cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\LR\obj\Debug\LR.pdb

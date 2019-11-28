@@ -1,0 +1,36 @@
+D:\Fuentes Desarrollo\SistemaGestion12\BE\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BE\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\BE\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\BE.Resources.resources
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\BE.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\BE.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BE\obj\Debug\BE.pdb
+D:\Fuentes Desarrollo\SisHelios\BE\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\SisHelios\BE\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\SisHelios\BE\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\BE.Resources.resources
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\BE.dll
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\BE.xml
+D:\Fuentes Desarrollo\SisHelios\BE\obj\Debug\BE.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BE\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\Contabilidad12\BE\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BE\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\Contabilidad12\BE\obj\Debug\BE.Resources.resources
+D:\Fuentes Desarrollo\Contabilidad12\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\Fuentes Desarrollo\Contabilidad12\BE\obj\Debug\BE.dll
+D:\Fuentes Desarrollo\Contabilidad12\BE\obj\Debug\BE.xml
+D:\Fuentes Desarrollo\Contabilidad12\BE\obj\Debug\BE.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\bin\Debug\BE.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\bin\Debug\BE.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\bin\Debug\BE.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\obj\Debug\BE.Resources.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\obj\Debug\BE.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\obj\Debug\BE.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BE\obj\Debug\BE.pdb

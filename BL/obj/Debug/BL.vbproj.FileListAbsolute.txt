@@ -1,0 +1,86 @@
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\BL.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\BL.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\BL.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Ionic.Utils.Zip.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\office.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\bin\Debug\office.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\BL.Resources.resources
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\BL.dll
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\BL.xml
+D:\Fuentes Desarrollo\SistemaGestion12\BL\obj\Debug\BL.pdb
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\BL.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\BL.pdb
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\BL.xml
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Ionic.Utils.Zip.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\office.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Fuentes Desarrollo\SisHelios\BL\bin\Debug\office.xml
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\BL.Resources.resources
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\BL.dll
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\BL.xml
+D:\Fuentes Desarrollo\SisHelios\BL\obj\Debug\BL.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\BL.dll
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\BL.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\BL.xml
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\Contabilidad12\BL\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\Contabilidad12\BL\obj\Debug\BL.vbprojResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\Contabilidad12\BL\obj\Debug\BL.Resources.resources
+D:\Fuentes Desarrollo\Contabilidad12\BL\obj\Debug\BL.vbproj.GenerateResource.Cache
+D:\Fuentes Desarrollo\Contabilidad12\BL\obj\Debug\BL.dll
+D:\Fuentes Desarrollo\Contabilidad12\BL\obj\Debug\BL.xml
+D:\Fuentes Desarrollo\Contabilidad12\BL\obj\Debug\BL.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\BL.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\BL.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\BL.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\BE.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\LR.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\BE.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\BE.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\LR.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\bin\Debug\LR.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\obj\Debug\BL.vbprojResolveAssemblyReference.cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\obj\Debug\BL.Resources.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\obj\Debug\BL.vbproj.GenerateResource.Cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\obj\Debug\BL.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\obj\Debug\BL.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\BL\obj\Debug\BL.pdb

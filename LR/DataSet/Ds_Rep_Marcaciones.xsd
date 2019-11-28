@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_Rep_Marcaciones" targetNamespace="http://tempuri.org/Ds_Rep_Marcaciones.xsd" xmlns:mstns="http://tempuri.org/Ds_Rep_Marcaciones.xsd" xmlns="http://tempuri.org/Ds_Rep_Marcaciones.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_Rep_Marcaciones" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Ds_Rep_Marcaciones" msprop:Generator_UserDSName="Ds_Rep_Marcaciones">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MA_01" msprop:Generator_TableClassName="MA_01DataTable" msprop:Generator_TableVarName="tableMA_01" msprop:Generator_TablePropName="MA_01" msprop:Generator_RowDeletingName="MA_01RowDeleting" msprop:Generator_UserTableName="MA_01" msprop:Generator_RowChangingName="MA_01RowChanging" msprop:Generator_RowEvHandlerName="MA_01RowChangeEventHandler" msprop:Generator_RowDeletedName="MA_01RowDeleted" msprop:Generator_RowEvArgName="MA_01RowChangeEvent" msprop:Generator_RowChangedName="MA_01RowChanged" msprop:Generator_RowClassName="MA_01Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PA_ID" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_ID" msprop:Generator_ColumnPropNameInRow="PA_ID" msprop:Generator_ColumnPropNameInTable="PA_IDColumn" msprop:Generator_UserColumnName="PA_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="EMPLEADO" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnEMPLEADO" msprop:Generator_ColumnPropNameInRow="EMPLEADO" msprop:Generator_ColumnPropNameInTable="EMPLEADOColumn" msprop:Generator_UserColumnName="EMPLEADO" type="xs:string" minOccurs="0" />
+              <xs:element name="AR_DESCRIPCION" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnAR_DESCRIPCION" msprop:Generator_ColumnPropNameInRow="AR_DESCRIPCION" msprop:Generator_ColumnPropNameInTable="AR_DESCRIPCIONColumn" msprop:Generator_UserColumnName="AR_DESCRIPCION" type="xs:string" minOccurs="0" />
+              <xs:element name="MO_DESCRIPCION" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnMO_DESCRIPCION" msprop:Generator_ColumnPropNameInRow="MO_DESCRIPCION" msprop:Generator_ColumnPropNameInTable="MO_DESCRIPCIONColumn" msprop:Generator_UserColumnName="MO_DESCRIPCION" type="xs:string" minOccurs="0" />
+              <xs:element name="PA_DET_OTROS" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_DET_OTROS" msprop:Generator_ColumnPropNameInRow="PA_DET_OTROS" msprop:Generator_ColumnPropNameInTable="PA_DET_OTROSColumn" msprop:Generator_UserColumnName="PA_DET_OTROS" type="xs:string" minOccurs="0" />
+              <xs:element name="JEFE" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnJEFE" msprop:Generator_ColumnPropNameInRow="JEFE" msprop:Generator_ColumnPropNameInTable="JEFEColumn" msprop:Generator_UserColumnName="JEFE" type="xs:string" minOccurs="0" />
+              <xs:element name="PA_FEC_INI" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_FEC_INI" msprop:Generator_ColumnPropNameInRow="PA_FEC_INI" msprop:Generator_ColumnPropNameInTable="PA_FEC_INIColumn" msprop:Generator_UserColumnName="PA_FEC_INI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PA_FEC_FIN" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_FEC_FIN" msprop:Generator_ColumnPropNameInRow="PA_FEC_FIN" msprop:Generator_ColumnPropNameInTable="PA_FEC_FINColumn" msprop:Generator_UserColumnName="PA_FEC_FIN" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PA_HOR_INI" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_HOR_INI" msprop:Generator_ColumnPropNameInRow="PA_HOR_INI" msprop:Generator_ColumnPropNameInTable="PA_HOR_INIColumn" msprop:Generator_UserColumnName="PA_HOR_INI" type="xs:string" minOccurs="0" />
+              <xs:element name="PA_HOR_FIN" msprop:Generator_ColumnVarNameInTable="columnPA_HOR_FIN" msprop:Generator_ColumnPropNameInRow="PA_HOR_FIN" msprop:Generator_ColumnPropNameInTable="PA_HOR_FINColumn" msprop:Generator_UserColumnName="PA_HOR_FIN" type="xs:string" minOccurs="0" />
+              <xs:element name="PE_NUM_DOC_PER" msprop:Generator_ColumnVarNameInTable="columnPE_NUM_DOC_PER" msprop:Generator_ColumnPropNameInRow="PE_NUM_DOC_PER" msprop:Generator_ColumnPropNameInTable="PE_NUM_DOC_PERColumn" msprop:Generator_UserColumnName="PE_NUM_DOC_PER" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MA_02" msprop:Generator_TableClassName="MA_02DataTable" msprop:Generator_TableVarName="tableMA_02" msprop:Generator_TablePropName="MA_02" msprop:Generator_RowDeletingName="MA_02RowDeleting" msprop:Generator_UserTableName="MA_02" msprop:Generator_RowChangingName="MA_02RowChanging" msprop:Generator_RowEvHandlerName="MA_02RowChangeEventHandler" msprop:Generator_RowDeletedName="MA_02RowDeleted" msprop:Generator_RowEvArgName="MA_02RowChangeEvent" msprop:Generator_RowChangedName="MA_02RowChanged" msprop:Generator_RowClassName="MA_02Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PA_ID" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_ID" msprop:Generator_ColumnPropNameInRow="PA_ID" msprop:Generator_ColumnPropNameInTable="PA_IDColumn" msprop:Generator_UserColumnName="PA_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="EMPLEADO" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnEMPLEADO" msprop:Generator_ColumnPropNameInRow="EMPLEADO" msprop:Generator_ColumnPropNameInTable="EMPLEADOColumn" msprop:Generator_UserColumnName="EMPLEADO" type="xs:string" minOccurs="0" />
+              <xs:element name="AR_DESCRIPCION" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnAR_DESCRIPCION" msprop:Generator_ColumnPropNameInRow="AR_DESCRIPCION" msprop:Generator_ColumnPropNameInTable="AR_DESCRIPCIONColumn" msprop:Generator_UserColumnName="AR_DESCRIPCION" type="xs:string" minOccurs="0" />
+              <xs:element name="MO_DESCRIPCION" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnMO_DESCRIPCION" msprop:Generator_ColumnPropNameInRow="MO_DESCRIPCION" msprop:Generator_ColumnPropNameInTable="MO_DESCRIPCIONColumn" msprop:Generator_UserColumnName="MO_DESCRIPCION" type="xs:string" minOccurs="0" />
+              <xs:element name="PA_DET_OTROS" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_DET_OTROS" msprop:Generator_ColumnPropNameInRow="PA_DET_OTROS" msprop:Generator_ColumnPropNameInTable="PA_DET_OTROSColumn" msprop:Generator_UserColumnName="PA_DET_OTROS" type="xs:string" minOccurs="0" />
+              <xs:element name="JEFE" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnJEFE" msprop:Generator_ColumnPropNameInRow="JEFE" msprop:Generator_ColumnPropNameInTable="JEFEColumn" msprop:Generator_UserColumnName="JEFE" type="xs:string" minOccurs="0" />
+              <xs:element name="PA_FEC_INI" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_FEC_INI" msprop:Generator_ColumnPropNameInRow="PA_FEC_INI" msprop:Generator_ColumnPropNameInTable="PA_FEC_INIColumn" msprop:Generator_UserColumnName="PA_FEC_INI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PA_FEC_FIN" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_FEC_FIN" msprop:Generator_ColumnPropNameInRow="PA_FEC_FIN" msprop:Generator_ColumnPropNameInTable="PA_FEC_FINColumn" msprop:Generator_UserColumnName="PA_FEC_FIN" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PA_HOR_INI" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnPA_HOR_INI" msprop:Generator_ColumnPropNameInRow="PA_HOR_INI" msprop:Generator_ColumnPropNameInTable="PA_HOR_INIColumn" msprop:Generator_UserColumnName="PA_HOR_INI" type="xs:string" minOccurs="0" />
+              <xs:element name="PA_HOR_FIN" msprop:Generator_ColumnVarNameInTable="columnPA_HOR_FIN" msprop:Generator_ColumnPropNameInRow="PA_HOR_FIN" msprop:Generator_ColumnPropNameInTable="PA_HOR_FINColumn" msprop:Generator_UserColumnName="PA_HOR_FIN" type="xs:string" minOccurs="0" />
+              <xs:element name="PE_NUM_DOC_PER" msprop:Generator_ColumnVarNameInTable="columnPE_NUM_DOC_PER" msprop:Generator_ColumnPropNameInRow="PE_NUM_DOC_PER" msprop:Generator_ColumnPropNameInTable="PE_NUM_DOC_PERColumn" msprop:Generator_UserColumnName="PE_NUM_DOC_PER" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

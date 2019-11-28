@@ -1,0 +1,40 @@
+D:\Fuentes Desarrollo\SistemaGestion12\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SistemaGestion12\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SistemaGestion12\DA\bin\BE.dll
+D:\Fuentes Desarrollo\SistemaGestion12\DA\bin\BE.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\DA\bin\BE.xml
+D:\Fuentes Desarrollo\SistemaGestion12\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SistemaGestion12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SistemaGestion12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SistemaGestion12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SisHelios\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SisHelios\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SisHelios\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SisHelios\DA\bin\BE.dll
+D:\Fuentes Desarrollo\SisHelios\DA\bin\BE.pdb
+D:\Fuentes Desarrollo\SisHelios\DA\bin\BE.xml
+D:\Fuentes Desarrollo\SisHelios\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SisHelios\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SisHelios\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SisHelios\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\Contabilidad12\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\Contabilidad12\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\Contabilidad12\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\Contabilidad12\DA\bin\BE.dll
+D:\Fuentes Desarrollo\Contabilidad12\DA\bin\BE.pdb
+D:\Fuentes Desarrollo\Contabilidad12\DA\bin\BE.xml
+D:\Fuentes Desarrollo\Contabilidad12\DA\obj\Debug\DA.vbprojResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\Contabilidad12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\Contabilidad12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\Contabilidad12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\bin\BE.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\bin\BE.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\bin\BE.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\obj\Debug\DA.vbprojResolveAssemblyReference.cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb

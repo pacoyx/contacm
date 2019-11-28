@@ -1,0 +1,1382 @@
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Contabilidad.exe.config
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Contabilidad.exe.manifest
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Contabilidad.application
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Contabilidad.exe
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Contabilidad.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Contabilidad.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\BL.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Ionic.Utils.Zip.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\office.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\BL.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\BL.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\bin\Debug\office.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Anexos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_AsientoAuto.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Banco.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Contactos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Telefonos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Buscar.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_CentroCosto.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Conf_BG.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Conf_EGP.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Copiar_Info_Emp.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_DetClientes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_DetHono.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_DetProve.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Documentos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Empresa.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Impuestos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_NumeracionVou.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_RegCompraVentaHono.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Subdiarios.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Copy.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Web.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_TipoCambio.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_ActDetraccion.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_Act_FecVen_Compras.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_Aperturar_Periodo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_Apertura_Tmp.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_CierreApertura.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_Cierre_Tmp.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_ConiITF.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_Contab_FTs_Botica.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_DifCam_Mensual.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_GeneraITFMes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_PLE.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis4.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis5.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Compro.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Gral.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Bal_Inv.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Certi_Reten_4ta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Daot.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_DetCta50.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer_Fechas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_EGP.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Kardes_Anexo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Movi_Cta_x_Subdiario.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Mov_Cta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Saldos_Mayor.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AboutBox1.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarClaveUsu.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_OrdenMenu_Mod.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_ParametrosGen.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Usuarios.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_SE_TipoAnexos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_AdmMes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_ConciliacionBanco.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_DocPendientes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_SaldoBancario.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouCajaBancos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Destinos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Referencia.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_EdicionVoucher.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouGenerales.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouHonorarios.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas_Cta70.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Char2.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Char4.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_CharCuentas1.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_LibDiario.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis1.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis2.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis3.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_ConciliacionBancos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_LibCajaBancos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_REG_COM_VTA.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RP_LibMayor.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_LG_Empresas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_LG_IniciarRegEdit.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_LG_Login.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MN_Carga.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MN_Grupos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MN_Log.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MN_MenuInicial.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MN_MenuPrincipal_Pru.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarEmpresa.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFecha.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFondoMenu.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Impresoras.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Modulos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_OpcMenu.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Perfiles.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Perfil.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_MT_UsuariosWeb.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.SplashScreen1.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Articulo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Cajeros.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Categoria_Arti.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Clientes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Documentos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Docum_Pago.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Familias.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_FormaPago.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Monedas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Numeracion.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Parametros.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_PuntoVenta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_TipoCambio.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_MA_Usuario_PtoVta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_AgregarSeries.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_AsientoCaja.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_IngClienteRapido.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_Compro.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_Compro.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_ListaArticuloAyuda.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_PR_ListaClientesAyuda.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_RE_RankingVentas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_RE_RegVentas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCliente.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxDia.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCajero.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.HO_PR_ConsolidarHoras.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.HO_PR_EditarRegDiario.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.HO_PR_Observaciones.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.HO_PR_RegDiaPer.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.HO_PR_VistoSistemas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.LO_MA_Articulos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.MA_MA_Motivos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.MA_PR_RegPapeleta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.MA_PR_Visto_Jefe.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.MA_PR_Visto_RRHH.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.MA_RE_ConsultaPapeleta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.Resources.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.CO_RE_Reporte.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_AY_Lista_Ayuda.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_AdmArea.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Afps.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Area.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Cargo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Compatibilidad.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Concepto.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_DerechoHab.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_GrupoSanguineo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Opc_Reporte.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Parametros.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Personal.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Personal_Remu.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_PlantillaCodigo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Tarifa.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Tipo_Tarifa.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_TopeSeguroAfp.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_MA_Ubigeo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_5ta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Cts.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Grati.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Compra_Vaca.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Contabilizacion.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Contratos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_ControlMes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Cronograma.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_CuentaCorriente.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_DatosArchivo_Plani_ScotiaBank.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Exp_Arch_MasivoSueldo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Folios.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Cargas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Comprobante.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Liquidacion_Planilla.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Lista_Personal.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Mantenimiento.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Provisiones.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_RegHoras_PerAsistencial.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Sincro_Vacaciones.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Suspensiones.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xCargo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEdad.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEstadoCivil.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xGenero.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Grado_Instruccion.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Monto_Pagado_Periodo.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Tardones.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Afp_Net.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Aportaciones_AFP.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_ConceptosHDA.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_ConsultaBoletas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_CtaCte.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Cumpleanos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Detalle_Planilla.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Dscto_Quinta.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail_xCargos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Folios.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Liq_Apor_Ret.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_PR_Transferencia.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_ListaPersonal.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Movi_Vacaciones.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Planilla_Mes.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_RepCartaCts.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_RepPagos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Rep_Bancos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Tardanzas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.PL_RP_Tardanza_Detalle.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.TE_AR_Bancos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.TE_AR_Conceptos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.TE_AR_TipoCambio.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.TE_PR_Egresos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.TE_PR_Ingresos.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.TE_PR_Lista_Auxi.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.exe.licenses
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.exe.manifest
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.application
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.exe
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.xml
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.pdb
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_MA_Consultorio.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_MA_Medico.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_MA_ServicioMedico.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaCitas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_PR_Programacion.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_RE_Citas.resources
+D:\Fuentes Desarrollo\SistemaGestion12\Helios\obj\Debug\Contabilidad.AD_MA_HistoClini_DatGen.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Contabilidad.exe.config
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.exe
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.pdb
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Contabilidad.exe.manifest
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Contabilidad.application
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Contabilidad.exe
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Contabilidad.pdb
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Contabilidad.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\BL.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Ionic.Utils.Zip.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\office.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\BL.pdb
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\BL.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\bin\Debug\office.xml
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\ResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_MA_Consultorio.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_MA_HistoClini_DatGen.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_MA_Medico.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_MA_ServicioMedico.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_PR_AgendaCitas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_PR_Programacion.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AD_RE_Citas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Anexos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_AsientoAuto.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Banco.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Contactos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Telefonos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Buscar.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_CentroCosto.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Conf_BG.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Conf_EGP.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Copiar_Info_Emp.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_DetClientes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_DetHono.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_DetProve.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Documentos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Empresa.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Impuestos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_NumeracionVou.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_RegCompraVentaHono.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Subdiarios.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Copy.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Web.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_TipoCambio.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_ActDetraccion.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_Act_FecVen_Compras.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_Aperturar_Periodo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_Apertura_Tmp.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_CierreApertura.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_Cierre_Tmp.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_ConiITF.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_Contab_FTs_Botica.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_DifCam_Mensual.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_GeneraITFMes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_PLE.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Analisis4.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Analisis5.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Compro.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Gral.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Bal_Inv.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Certi_Reten_4ta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Daot.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_DetCta50.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer_Fechas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_EGP.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Kardes_Anexo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Movi_Cta_x_Subdiario.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Mov_Cta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Saldos_Mayor.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.AboutBox1.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_CambiarClaveUsu.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_OrdenMenu_Mod.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_ParametrosGen.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Usuarios.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_SE_TipoAnexos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_AdmMes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_ConciliacionBanco.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_DocPendientes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_SaldoBancario.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouCajaBancos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Destinos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Referencia.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_EdicionVoucher.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouGenerales.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouHonorarios.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas_Cta70.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Char2.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Char4.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_CharCuentas1.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_LibDiario.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Analisis1.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Analisis2.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_Analisis3.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_ConciliacionBancos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_LibCajaBancos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_REG_COM_VTA.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RP_LibMayor.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_LG_Empresas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_LG_IniciarRegEdit.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_LG_Login.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MN_Carga.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MN_Grupos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MN_Log.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MN_MenuInicial.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MN_MenuPrincipal_Pru.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_CambiarEmpresa.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFecha.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFondoMenu.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Impresoras.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Modulos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_OpcMenu.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Perfiles.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Perfil.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_MT_UsuariosWeb.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.SplashScreen1.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Articulo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Cajeros.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Categoria_Arti.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Clientes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Documentos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Docum_Pago.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Familias.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_FormaPago.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Monedas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Numeracion.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Parametros.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_PuntoVenta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_TipoCambio.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_MA_Usuario_PtoVta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_AgregarSeries.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_AsientoCaja.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_IngClienteRapido.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_Mante_Compro.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_Emi_Compro.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_ListaArticuloAyuda.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_PR_ListaClientesAyuda.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_RE_RankingVentas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_RE_RegVentas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCliente.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_RE_VentasxDia.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCajero.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.HO_PR_ConsolidarHoras.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.HO_PR_EditarRegDiario.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.HO_PR_Observaciones.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.HO_PR_RegDiaPer.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.HO_PR_VistoSistemas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.LO_MA_Articulos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.MA_MA_Motivos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.MA_PR_RegPapeleta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.MA_PR_Visto_Jefe.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.MA_PR_Visto_RRHH.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.MA_RE_ConsultaPapeleta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.Resources.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.CO_RE_Reporte.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_AY_Lista_Ayuda.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_AdmArea.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Afps.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Area.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Cargo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Compatibilidad.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Concepto.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_DerechoHab.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_GrupoSanguineo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Opc_Reporte.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Parametros.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Personal.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Personal_Remu.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_PlantillaCodigo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Tarifa.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Tipo_Tarifa.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_TopeSeguroAfp.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_MA_Ubigeo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_5ta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Cts.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Grati.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Compra_Vaca.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Contabilizacion.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Contratos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_ControlMes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Cronograma.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_CuentaCorriente.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_DatosArchivo_Plani_ScotiaBank.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Exp_Arch_MasivoSueldo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Folios.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Cargas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Comprobante.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Liquidacion_Planilla.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Lista_Personal.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Mantenimiento.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Provisiones.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_RegHoras_PerAsistencial.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Sincro_Vacaciones.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Suspensiones.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xCargo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEdad.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEstadoCivil.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xGenero.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Grado_Instruccion.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Monto_Pagado_Periodo.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_GR_Tardones.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Afp_Net.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Aportaciones_AFP.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_ConceptosHDA.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_ConsultaBoletas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_CtaCte.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Cumpleanos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Detalle_Planilla.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Dscto_Quinta.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail_xCargos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Folios.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Liq_Apor_Ret.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_PR_Transferencia.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_ListaPersonal.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Movi_Vacaciones.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Planilla_Mes.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_RepCartaCts.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_RepPagos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Rep_Bancos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Tardanzas.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.PL_RP_Tardanza_Detalle.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.TE_AR_Bancos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.TE_AR_Conceptos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.TE_AR_TipoCambio.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.TE_PR_Egresos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.TE_PR_Ingresos.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.TE_PR_Lista_Auxi.resources
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\ResGen.read.1.tlog
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\ResGen.write.1.tlog
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.exe.licenses
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.exe.manifest
+D:\Fuentes Desarrollo\SisHelios\Helios\obj\Debug\Contabilidad.application
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Contabilidad.exe.config
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Contabilidad.exe.manifest
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Contabilidad.application
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Contabilidad.exe
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Contabilidad.pdb
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Contabilidad.xml
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\BE.dll
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\BL.dll
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\LR.dll
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Ionic.Utils.Zip.dll
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\BE.pdb
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\BE.xml
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\BL.pdb
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\BL.xml
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\LR.pdb
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\LR.xml
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\Fuentes Desarrollo\Contabilidad12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Interface.vbprojResolveAssemblyReference.cache
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_CentroCosto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_CondicionAseg.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Consultorio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Especialidades.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_GrupoSanguineo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_HistoClini_DatGen.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Medicamentos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Medico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_MedicosXUsu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Nacionalidad.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Recomendado.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_ServicioMedico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Turno.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Ubicacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaEmergencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AtencionEmergencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_PreFacturacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ProgramacionEmerg.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaEcografia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_PostergarAtencion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Recetas_Medicas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_TipoCongelacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_Congela_sc.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_NumCuotasConge.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Pre_Factura_Detalle.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Motivos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_CambioCuenta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaTransferencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_ComprasXVencer.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Consumo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Costo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_RegistroCompras.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Rotacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_CentroCosto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_HISTORIAL_PACIENTE.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Almacen_Serie.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Forma_Farmaceutica.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Forma_Presentacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaComproLibres.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCuentasBot.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Generico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Numerador.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Usu_Almacen.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaInventario.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_InventarioFisico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Movimientos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Transferencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaCuentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaMedicamInsumos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ConsultaEcografia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoAtenciones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoIntervencion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoEcoXMedico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoEcoXTipo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ListaHisEco.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RE_IC_Diario01.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RE_IC_Diario_Vista.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproBot.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FE_PR_CuentasCrio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Consumo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Mante_ComproB.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaFarmacia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproFacturacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCuentasCaja.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCajaAbiertas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_CuadreCaja.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FR_PR_ListaPacientesAyuda.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_ConsumoFarmacia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_Articulo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_ConHospiPaci.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FE_RE_BuscarPacienteC.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_HistoClini_DatGen.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaCitas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaxServicio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Atencion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AtencionxServicio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_BuscaPaciente.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_EliminarCuenta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ListaArticulosSeg.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_OcupacionMedica.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Programacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ReservaCita.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaSecretarias.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCuentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FE_RE_Cuentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Tipo_Gestacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Tipo_Paci.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_HospitalPaci.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_Lista_SoliciHospi.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_ManteRegHospi.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Origen.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Agencia_Aduanas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_ALMACEN.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Estado_Documento.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_ESTADO_REQUE.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Fabricante.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Forma_Pago.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Grupo_Articulo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Marca.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Pais.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Proveedor.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_PROYECTO.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Tipo_Comunicacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Tipo_Doc.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Tipo_Doc_Personal.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_TRANSA.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Ubicacion_Art.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Uni_Med.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ComprasBot.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Ayuda_Articulo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Ayuda_Prove.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_DocRef.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Requerimiento_C.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Tipo_Req.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_ConsumoXCuentYArea.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_ConsumoPorCuenta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Generico_Equivalencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_InventarioValoriz.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Kardex.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Vencimiento_Medic.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Paises.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_AyudaCuenta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Utilidad.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Certi_UtilidadPer.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PR_PR_ListaCuentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PR_PR_Pre_Facturacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_CAMA.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Habitacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_PISO.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Tipo_Habitacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Area.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PR_RE_ConsultaCompro.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BO_PR_Atencion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ConsultaCitasXdia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ConsultaCitasXfecha.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Anexos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_AsientoAuto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Contactos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Telefonos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Buscar.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CentroCosto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Conf_BG.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Conf_EGP.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Copiar_Info_Emp.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DetClientes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DetHono.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DetProve.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DistriGasto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Documentos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Empresa.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Impuestos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_NumeracionVou.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_RegCompraVentaHono.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Subdiarios.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Copy.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Web.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_TipoCambio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_ActDetraccion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Act_FecVen_Compras.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Aperturar_Periodo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Apertura_Tmp.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_CierreApertura.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Cierre_Tmp.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_ConiITF.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Contab_FTs_Botica.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_DifCam_Mensual.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_DocsProve.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_GeneraITFMes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_PLE.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis4.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis5.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Compro.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Gral.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Bal_Inv.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Certi_Reten_4ta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_ChequeGirado.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Daot.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_DetCta50.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer_Fechas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_EGP.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Kardes_Anexo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Movi_Cta_x_Subdiario.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Mov_Cta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Saldos_Mayor.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Sisa01.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AboutBox1.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarClaveUsu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_OrdenMenu_Mod.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_ParametrosGen.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Usuarios.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_SE_TipoAnexos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_AdmMes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_ConciliacionBanco.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_DocPendientes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_SaldoBancario.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCajaBancos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Destinos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Referencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_EdicionVoucher.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouGenerales.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouHonorarios.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas_Cta70.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Char2.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Char4.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_CharCuentas1.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_LibDiario.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis1.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis2.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis3.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_ConciliacionBancos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_LibCajaBancos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_REG_COM_VTA.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_LibMayor.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_LG_Empresas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_LG_IniciarRegEdit.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_LG_Login.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_Carga.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_Grupos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_Log.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_MenuInicial.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_MenuPrincipal_Pru.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarEmpresa.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFecha.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFondoMenu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Impresoras.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Modulos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_OpcMenu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Perfiles.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Perfil.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_UsuariosWeb.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SplashScreen1.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Articulo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Cajeros.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Categoria_Arti.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Clientes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Documentos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Docum_Pago.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Familias.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_FormaPago.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Monedas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Numeracion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Parametros.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_PuntoVenta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Seguros.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Tarifas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_TipoCambio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Tratamiento.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Turno.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Usuario_PtoVta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_AgregarSeries.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_AsientoCaja.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Caja_Ape.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Caja_Cie.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_DetPago.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproCaja.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproFacPac.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproFacSeg.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_IngClienteRapido.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaArticulosCuentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaDiagnostico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaPresupuesto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaTratamientos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_Compro.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_Compro.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaArticuloAyuda.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaClientesAyuda.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_ComproFac.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Presupuesto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Pre_Facturacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_ConsultaCaja.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_Mante_ComproRE.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_PlanillaCaja.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_RankingVentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_RegVentas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCliente.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxDia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCajero.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_ConsolidarHoras.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_EditarRegDiario.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_Observaciones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_RegDiaPer.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_SolicitudHospi.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_VistoSistemas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_AyudaHistorias.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Articulos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Centro_Costo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_AyuArtiCom.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_FacturaProve.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_RelacionPer.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_MA_Motivos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_PR_RegPapeleta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_PR_Visto_Jefe.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_PR_Visto_RRHH.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_RE_ConsultaPapeleta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.Resources.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RE_Reporte.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_AY_Lista_Ayuda.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_AdmArea.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Afps.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Area.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Cargo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Compatibilidad.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Concepto.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_DerechoHab.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_GrupoSanguineo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Opc_Reporte.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Parametros.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Personal.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Personal_Remu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_PlantillaCodigo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Tarifa.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Tipo_Tarifa.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_TopeSeguroAfp.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Ubigeo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_5ta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Cts.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Grati.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Compra_Vaca.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Contabilizacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Contratos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_ControlMes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Cronograma.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_CuentaCorriente.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_DatosArchivo_Plani_ScotiaBank.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Exp_Arch_MasivoSueldo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Folios.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Cargas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Comprobante.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Liquidacion_Planilla.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Lista_Personal.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Mantenimiento.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Provisiones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_RegHoras_PerAsistencial.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Sincro_Vacaciones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Suspensiones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xCargo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEdad.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEstadoCivil.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xGenero.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Grado_Instruccion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Monto_Pagado_Periodo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Tardones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Afp_Net.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Aportaciones_AFP.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Certi_5taCat.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_ConceptosHDA.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_ConsultaBoletas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_CtaCte.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Cumpleanos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Detalle_Planilla.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Dscto_Quinta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail_xCargos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Folios.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_HorasTrabajadas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Liq_Apor_Ret.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Transferencia.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_ListaPersonal.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Movi_Vacaciones.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Planilla_Mes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_RepCartaCts.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_RepPagos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Rep_Bancos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Tardanzas.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Tardanza_Detalle.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_Atenciones_Comprobantes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_Aten_Seguros_Hosp.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_Aten_Seguros_Ambu.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_ProduccionX_Medico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_ProduccionX_Tratamiento.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.SO_RE_PROGRAMACION.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_AR_Bancos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_AR_Conceptos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_AR_TipoCambio.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_PR_Egresos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_PR_Ingresos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_PR_Lista_Auxi.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_RE_Facturas_por_fecha.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Interface.vbproj.GenerateResource.Cache
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.exe.licenses
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.exe.manifest
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.application
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.exe
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.xml
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.pdb
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_Tarifario.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_RE_DetalleComprobantes.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_MA_UBICACION.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_MA_TIPOUBI.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ANAMNESIS.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Devolucion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegConsumoFac.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegConsumoFar.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegLogistica.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegUbicacion.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_REGISTRO_BEBE.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_AyudaArticulos.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_RE_ConsumoPorRegistro.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_RE_ListaRegistro.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AtencionTopico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Topico.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_AreaArticulo.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_DetalleCuenta.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_BuscarPaciente.resources
+D:\Fuentes Desarrollo\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_BuscarPacienteCFerti.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Contabilidad.exe.config
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.exe
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Contabilidad.exe.manifest
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Contabilidad.application
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Contabilidad.exe
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Contabilidad.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Contabilidad.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\BE.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\BL.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\LR.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Ionic.Utils.Zip.dll
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\BE.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\BE.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\BL.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\BL.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\LR.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\LR.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Interface.vbprojResolveAssemblyReference.cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_CentroCosto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_CondicionAseg.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Consultorio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Especialidades.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_GrupoSanguineo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_HistoClini_DatGen.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Medicamentos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Medico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_MedicosXUsu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Nacionalidad.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Recomendado.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_ServicioMedico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Turno.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_MA_Ubicacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaEmergencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AtencionEmergencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AtencionTopico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_PreFacturacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ProgramacionEmerg.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaEcografia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_PostergarAtencion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Recetas_Medicas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Topico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ANAMNESIS.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_TipoCongelacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_DetalleCuenta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_BuscarPaciente.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_Congela_sc.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_NumCuotasConge.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Pre_Factura_Detalle.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_BuscarPacienteCFerti.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_Tarifario.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_AreaArticulo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Motivos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_CambioCuenta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Devolucion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaTransferencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_ComprasXVencer.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Consumo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Costo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_RegistroCompras.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Rotacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_CentroCosto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegConsumoFac.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegConsumoFar.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegLogistica.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_RegUbicacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_RE_ConsumoPorRegistro.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_RE_ListaRegistro.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_HISTORIAL_PACIENTE.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Almacen_Serie.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Forma_Farmaceutica.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Forma_Presentacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaComproLibres.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCuentasBot.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Generico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Numerador.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Usu_Almacen.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaInventario.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_InventarioFisico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Movimientos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Transferencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaCuentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ListaMedicamInsumos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ConsultaEcografia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoAtenciones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoIntervencion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoEcoXMedico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_GraficoEcoXTipo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ListaHisEco.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RE_IC_Diario01.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RE_IC_Diario_Vista.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproBot.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FE_PR_CuentasCrio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Consumo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Mante_ComproB.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaFarmacia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproFacturacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCuentasCaja.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCajaAbiertas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_CuadreCaja.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FR_PR_ListaPacientesAyuda.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_ConsumoFarmacia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_Articulo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_ConHospiPaci.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FE_RE_BuscarPacienteC.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_HistoClini_DatGen.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaCitas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaxServicio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Atencion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AtencionxServicio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_BuscaPaciente.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_EliminarCuenta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ListaArticulosSeg.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_OcupacionMedica.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_Programacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_ReservaCita.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_PR_AgendaSecretarias.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaCuentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FE_RE_Cuentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Tipo_Gestacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Tipo_Paci.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_HospitalPaci.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_Lista_SoliciHospi.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_ManteRegHospi.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Origen.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Agencia_Aduanas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_ALMACEN.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Estado_Documento.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_ESTADO_REQUE.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Fabricante.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Forma_Pago.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Grupo_Articulo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Marca.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Pais.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Proveedor.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_PROYECTO.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Tipo_Comunicacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Tipo_Doc.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Tipo_Doc_Personal.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_TRANSA.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Ubicacion_Art.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Uni_Med.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_ComprasBot.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Ayuda_Articulo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Ayuda_Prove.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_DocRef.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Requerimiento_C.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_Tipo_Req.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_ConsumoXCuentYArea.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_ConsumoPorCuenta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Generico_Equivalencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_InventarioValoriz.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Kardex.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_RE_Vencimiento_Medic.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Paises.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_MA_UBICACION.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_REGISTRO_BEBE.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_MA_TIPOUBI.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_AyudaCuenta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BB_LT_AyudaArticulos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Utilidad.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Certi_UtilidadPer.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PR_PR_ListaCuentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PR_PR_Pre_Facturacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_CAMA.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Habitacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_PISO.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_Tipo_Habitacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Area.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PR_RE_ConsultaCompro.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.BO_PR_Atencion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ConsultaCitasXdia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AD_RE_ConsultaCitasXfecha.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Anexos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_AsientoAuto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Contactos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Banco_Telefonos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Buscar.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CentroCosto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Conf_BG.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Conf_EGP.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Copiar_Info_Emp.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DetClientes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DetHono.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DetProve.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_DistriGasto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Documentos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Empresa.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Impuestos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_NumeracionVou.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_RegCompraVentaHono.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Subdiarios.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Copy.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_TCamb_Web.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_TipoCambio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_ActDetraccion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Act_FecVen_Compras.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Aperturar_Periodo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Apertura_Tmp.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_CierreApertura.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Cierre_Tmp.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_ConiITF.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Contab_FTs_Botica.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_DifCam_Mensual.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_DocsProve.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_GeneraITFMes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_PLE.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis4.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis5.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Compro.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Balance_Gral.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Bal_Inv.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Certi_Reten_4ta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_ChequeGirado.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Daot.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_DetCta50.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_DocPen_x_Vencer_Fechas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_EGP.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Kardes_Anexo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Movi_Cta_x_Subdiario.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Mov_Cta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Saldos_Mayor.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Sisa01.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.AboutBox1.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarClaveUsu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_OrdenMenu_Mod.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_ParametrosGen.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Usuarios.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_SE_TipoAnexos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_AdmMes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_ConciliacionBanco.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_DocPendientes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_SaldoBancario.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCajaBancos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Destinos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouCompras_Referencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_EdicionVoucher.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouGenerales.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouHonorarios.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_PR_VouVentas_Cta70.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Char2.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Char4.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_CharCuentas1.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_LibDiario.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis1.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis2.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_Analisis3.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_ConciliacionBancos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_LibCajaBancos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_REG_COM_VTA.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RP_LibMayor.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_LG_Empresas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_LG_IniciarRegEdit.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_LG_Login.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_Carga.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_Grupos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_Log.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_MenuInicial.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MN_MenuPrincipal_Pru.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarEmpresa.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFecha.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_CambiarFondoMenu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Impresoras.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Modulos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_OpcMenu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Perfiles.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Perfil.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_MT_UsuariosWeb.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SplashScreen1.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Articulo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Cajeros.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Categoria_Arti.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Clientes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Documentos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Docum_Pago.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Familias.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_FormaPago.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Monedas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Numeracion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Parametros.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_PuntoVenta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Seguros.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Tarifas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_TipoCambio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Tratamiento.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Turno.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_MA_Usuario_PtoVta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_AgregarSeries.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_AsientoCaja.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Caja_Ape.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Caja_Cie.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_DetPago.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproCaja.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproFacPac.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_ComproFacSeg.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_IngClienteRapido.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaArticulosCuentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaDiagnostico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaPresupuesto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaTratamientos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_Compro.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Emi_Compro.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaArticuloAyuda.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_ListaClientesAyuda.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Mante_ComproFac.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Presupuesto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_PR_Pre_Facturacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_ConsultaCaja.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_Mante_ComproRE.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_PlanillaCaja.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_RankingVentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_RegVentas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCliente.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxDia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.FA_RE_VentasxCajero.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_ConsolidarHoras.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_EditarRegDiario.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_Observaciones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_RegDiaPer.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_SolicitudHospi.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_PR_VistoSistemas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.HO_MA_AyudaHistorias.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Articulos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_MA_Centro_Costo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_AyuArtiCom.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.LO_LT_FacturaProve.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_RelacionPer.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_MA_Motivos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_PR_RegPapeleta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_PR_Visto_Jefe.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_PR_Visto_RRHH.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.MA_RE_ConsultaPapeleta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.Resources.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.CO_RE_Reporte.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_AY_Lista_Ayuda.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_AdmArea.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Afps.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Area.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Cargo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Compatibilidad.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Concepto.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_DerechoHab.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_GrupoSanguineo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Opc_Reporte.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Parametros.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Personal.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Personal_Remu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_PlantillaCodigo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Tarifa.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Tipo_Tarifa.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_TopeSeguroAfp.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_MA_Ubigeo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_5ta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Cts.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Calculo_Grati.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Compra_Vaca.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Contabilizacion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Contratos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_ControlMes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Cronograma.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_CuentaCorriente.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_DatosArchivo_Plani_ScotiaBank.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Exp_Arch_MasivoSueldo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Folios.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Cargas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Folio_Comprobante.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Liquidacion_Planilla.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Lista_Personal.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Mantenimiento.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Provisiones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_RegHoras_PerAsistencial.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Sincro_Vacaciones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Suspensiones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xCargo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEdad.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xEstadoCivil.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Distri_xGenero.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Grado_Instruccion.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Monto_Pagado_Periodo.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_GR_Tardones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Afp_Net.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Aportaciones_AFP.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Certi_5taCat.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_ConceptosHDA.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_ConsultaBoletas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_CtaCte.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Cumpleanos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Detalle_Planilla.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Dscto_Quinta.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_EnvioMail_xCargos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Folios.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_HorasTrabajadas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Liq_Apor_Ret.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_PR_Transferencia.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_ListaPersonal.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Movi_Vacaciones.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Planilla_Mes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_RepCartaCts.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_RepPagos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Rep_Bancos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Tardanzas.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.PL_RP_Tardanza_Detalle.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_Atenciones_Comprobantes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_Aten_Seguros_Hosp.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_Aten_Seguros_Ambu.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_ProduccionX_Medico.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SIG_RE_ProduccionX_Tratamiento.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.SO_RE_PROGRAMACION.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_AR_Bancos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_AR_Conceptos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_AR_TipoCambio.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_PR_Egresos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_PR_Ingresos.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_PR_Lista_Auxi.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_RE_DetalleComprobantes.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.TE_RE_Facturas_por_fecha.resources
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Interface.vbproj.GenerateResource.Cache
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.exe.licenses
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.exe.manifest
+D:\_karlos\_Business\Fuentes\cm\Contabilidad12\Helios\obj\Debug\Contabilidad.application
